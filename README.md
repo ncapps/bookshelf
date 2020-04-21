@@ -12,3 +12,6 @@
 
 ### Python
   - [Introducing Python by Bill Lubanovic](https://github.com/ncapps/introducing-python)
+
+### Linux
+  - [Linux in Action by David Clinton](https://github.com/ncapps/linux-in-action)
