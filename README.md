@@ -16,3 +16,4 @@
 
 ### Linux
   - [Linux in Action by David Clinton](https://github.com/ncapps/linux-in-action)
+  - [Docker in Action by Stephen Kuenzli and Jeffrey Nickoloff](https://github.com/ncapps/docker-in-action)
