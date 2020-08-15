@@ -5,7 +5,7 @@
   - [Test-Driven React by Trevor Burham](https://github.com/ncapps/test-driven-react)
   - [CSS in Depth by Keith Grant](https://github.com/ncapps/css-in-depth)
   - [React Quickly by Azat Mardan](https://github.com/ncapps/react-quickly)
-  - [Isomorphic Web Applications by Elyse Kolker Gordon](https://github.com/ncapps/isomorphic-web-applications)]]
+  - [Isomorphic Web Applications by Elyse Kolker Gordon](https://github.com/ncapps/isomorphic-web-applications)
   - [React Material-UI Cookbook by Adam Boduch](https://github.com/ncapps/React-Material-UI-Cookbook)
   - [Full Stack Serverless by Nader Dabit](https://github.com/ncapps/full-stack-serverless)
 
