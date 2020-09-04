@@ -15,6 +15,7 @@
 ### Python
   - [Introducing Python by Bill Lubanovic](https://github.com/ncapps/introducing-python)
   - [Python Workout by Reuven Lerner](https://github.com/ncapps/python-workout)
+  - [Tiny Python Projects by Ken Youens-Clark](https://github.com/ncapps/tiny_python_projects)
 
 ### Linux
   - [Linux in Action by David Clinton](https://github.com/ncapps/linux-in-action)
