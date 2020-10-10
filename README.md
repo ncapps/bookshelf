@@ -16,6 +16,7 @@
   - [Introducing Python by Bill Lubanovic](https://github.com/ncapps/introducing-python)
   - [Python Workout by Reuven Lerner](https://github.com/ncapps/python-workout)
   - [Tiny Python Projects by Ken Youens-Clark](https://github.com/ncapps/tiny_python_projects)
+  - [Practices of the Python Pro by Dane Hillard](https://github.com/ncapps/practices-of-the-python-pro)
 
 ### Linux
   - [Linux in Action by David Clinton](https://github.com/ncapps/linux-in-action)
