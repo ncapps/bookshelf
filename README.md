@@ -17,10 +17,17 @@
   - [Python Workout by Reuven Lerner](https://github.com/ncapps/python-workout)
   - [Tiny Python Projects by Ken Youens-Clark](https://github.com/ncapps/tiny_python_projects)
   - [Practices of the Python Pro by Dane Hillard](https://github.com/ncapps/practices-of-the-python-pro)
+  - [Web Scraping with Python, 2nd Edition by Ryan Mitchell](https://github.com/ncapps/web-scraping-python)
 
 ### Linux
   - [Linux in Action by David Clinton](https://github.com/ncapps/linux-in-action)
   - [Docker in Action by Stephen Kuenzli and Jeffrey Nickoloff](https://github.com/ncapps/docker-in-action)
+  - [Introduction to Linux: LFS101x](https://github.com/ncapps/LFS101x)
   
 ### Kubernetes
   - [Cloud Native DevOps with Kubernetes by John Arundel and Justin Domingus](https://github.com/ncapps/cloudnativedevops)
+  - [Kuberenetes Patterns by Bilgin Ibryam and Roland Huß](https://github.com/ncapps/k8spatterns)
+  - [Certified Kubernetes Application Developer (CKAD) Prep Course](https://github.com/ncapps/ckad-prep)
+
+### Algorithms
+  - [Grokking Algorithms by Aditya Bhargava](https://github.com/ncapps/grokking_algorithms)
